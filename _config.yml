@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Elif's Homepage"
+ title: "" #Elif's Homepage
 title_separator: "-"
 name: &name "Elif Nur Ozturk"
 description: &description "Computer Science & Engineering BSc Student at Sabanci University"
