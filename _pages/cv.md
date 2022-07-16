@@ -29,7 +29,7 @@ redirect_from:
   - Conducted academic research named “Social Perspective and Gender Equality in STEM Education” regarding how gender inequality influences STEM education
   - Supervisor: Zeynep Gulru Goker
 
-# <!-- Skills
+<!-- Skills-->
 
 <!-- - Research
 - Programming
