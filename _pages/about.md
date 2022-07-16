@@ -15,3 +15,10 @@ Hello, welcome to my homepage! I am currently a student at [Sabanci University](
 - Data Science
 - Machine Learning
 - Computational Neuroscience
+
+#Updates
+
+In here I'm planning to share exciting news!
+
+- I'm accepted OBSS Summer 2022 internship programme.
+- I'm accepted "Computational Neuroscience" programme organized by [Neuromatch Academy](https://academy.neuromatch.io/) between 11-29 July.
