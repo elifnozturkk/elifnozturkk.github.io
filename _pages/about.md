@@ -13,6 +13,5 @@ Hello, welcome to my homepage! I am currently a student at [Sabanci University](
 # Research Interests
 
 - Data Science
-- Computational Social Sciences
-- Neuroscience
-- Gender Studies
+- Machine Learning
+- Computational Neuroscience
