@@ -15,7 +15,7 @@ redirect_from:
 
 # Research Experience
 
-- Computational Neuroscience Summer School, \_July, 2022
+- Computational Neuroscience Summer School, _July, 2022_
 
   - Neuromatch Academy
 
