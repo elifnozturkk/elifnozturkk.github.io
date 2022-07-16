@@ -16,7 +16,7 @@ Hello, welcome to my homepage! I am currently a student at [Sabanci University](
 - Machine Learning
 - Computational Neuroscience
 
-#Updates
+# Updates
 
 In here I'm planning to share exciting news!
 
