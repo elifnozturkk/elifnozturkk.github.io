@@ -35,4 +35,4 @@ redirect_from:
 - Programming
   - Python
   - C++
-  - C --> -->
+  - C -->
