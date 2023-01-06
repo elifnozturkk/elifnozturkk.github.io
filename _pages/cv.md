@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title:
 permalink: /cv/
@@ -27,4 +27,4 @@ redirect_from:
 - Research Assistant, _June, 2020 - August, 2020_
   - Sabancı University
   - Conducted academic research named “Social Perspective and Gender Equality in STEM Education” regarding how gender inequality influences STEM education
-  - Supervisor: Zeynep Gulru Goker
+  - Supervisor: Zeynep Gulru Goker -->
