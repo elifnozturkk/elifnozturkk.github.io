@@ -24,7 +24,7 @@ redirect_from:
   - Sabancı University
   - Supervisor: Dr Onur Varol
 
-- Research Assistant, _June, 2020 - August, 2020_
+<!-- - Research Assistant, _June, 2020 - August, 2020_
   - Sabancı University
   - Conducted academic research named “Social Perspective and Gender Equality in STEM Education” regarding how gender inequality influences STEM education
-  - Supervisor: Zeynep Gulru Goker
+  - Supervisor: Zeynep Gulru Goker -->
