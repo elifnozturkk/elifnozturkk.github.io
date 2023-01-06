@@ -19,7 +19,7 @@ redirect_from:
 
   - Sabancı University
   - Completed "Program For Undergraduate Research" ,organized by Sabancı University, with Perceptual Organization project.
-  - Contributed data collection in EEG experiment.
+  - Collected data in neuroimaging studies with EEG.
   - Supervisor: Dr Nihan Alp
 
 - Computational Neuroscience Summer School, _July, 2022_
