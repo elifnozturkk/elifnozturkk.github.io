@@ -20,6 +20,6 @@ Hello, welcome to my homepage! I am currently a student at [Sabanci University](
 
 In here I'm planning to share exciting news!
 
-- I'm accepted [PURE](https://pure.sabanciuniv.edu/) programme with project named Perceptual Organization
-- I'm accepted OBSS Summer 2022 internship program.
-- I'm accepted "Computational Neuroscience" programme organized by [Neuromatch Academy](https://academy.neuromatch.io/) between 11-29 July.
+- I'm accepted to the [PURE](https://pure.sabanciuniv.edu/) programme with a project named Perceptual Organization
+- I'm accepted to the OBSS Summer 2022 internship program.
+- I'm accepted to the "Computational Neuroscience" programme organized by [Neuromatch Academy](https://academy.neuromatch.io/) between 11-29 July.
